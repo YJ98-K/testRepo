@@ -1,0 +1,2 @@
+This is a new text file.
+A new content was added. (commit when it is really important)
